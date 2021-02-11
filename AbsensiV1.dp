@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\AbsensiV1\AbsensiV1.dp
+Name=Absensi
+MainUnit=D:\AbsensiV1\AbsensiV1App.pas
+UnitCount=1
+ResFiles=D:\AbsensiV1\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=D:\AbsensiV1\logo.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\AbsensiV1\AbsensiV1App.pas
+FileTime=1380425801
